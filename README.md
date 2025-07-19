@@ -81,4 +81,3 @@ Dibuat dengan semangat dan logika oleh [@rafifauzan](https://github.com/rafifauz
 ## 📄 Lisensi
 
 MIT License - Bebas digunakan, dimodifikasi, dan didistribusikan.
-# Logi_Land
